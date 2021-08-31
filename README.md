@@ -6,7 +6,11 @@
 
 ## 02. 주요 기능 및 상세
 
-## 03. 커밋 메시지 규칙
+## 03. Entity-Relationship Diagram
+
+![Bridge 서비스 ERD](https://github.com/hy6219/Bridge/blob/master/Bridge.png)
+
+## 04. 커밋 메시지 규칙
 
 - <타입>: <제목> (제목은 최대 50 글자까지 입력)
 - <타입> 리스트
